@@ -6,6 +6,10 @@ Hello, I have a new project. create an application with the swift language and s
 Now I have to manage image size and button placement.
 
 
+
+
+
+
    /$$$$$           /$$                      /$$$$$$  /$$$$$$$ 
    |__  $$          | $$                     /$$__  $$| $$__  $$
       | $$ /$$   /$$| $$  /$$$$$$   /$$$$$$$|__/  \ $$| $$  \ $$
